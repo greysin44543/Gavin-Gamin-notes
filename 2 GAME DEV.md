@@ -15,5 +15,5 @@ delegates
 enemy ai movement
 [[enemy ai movement]]
 project code for later
-[[project_code (1)]]
+[[project_code]]
 input stuff
