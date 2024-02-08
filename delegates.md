@@ -1,0 +1,1 @@
+A delegate is like a variable, but instead of holding data, it hold functions.
