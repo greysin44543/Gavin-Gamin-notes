@@ -1,7 +1,7 @@
 
 # What is a constant?
 
-constants are imutable variables which you can use to rename other things blah blah blah Ill finish this later
+constants are immutable variables which you can use to rename other things blah blah blah Ill finish this later
 
 # referencing a script from a different gameobject
 
@@ -9,9 +9,9 @@ If you’re referencing a script from a different GameObject, you much reference
 ```cs
 	// reference the gameobject with the script
     public GameObject player;
-    reference the script
+    //reference the script
     refrencedscript refscript;
-    
+	    q
     
     void Awake()
     {
