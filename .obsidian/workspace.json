@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 intro page.md",
+                "file": "project_code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da11985de52c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enemy ai movement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 intro page.md",
+                "file": "enemy ai movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 intro page.md",
+                "file": "enemy ai movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 intro page.md"
+                "file": "enemy ai movement.md"
               }
             }
           }
@@ -147,19 +160,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68105465f8311ac1",
+  "active": "6da11985de52c8b7",
   "lastOpenFiles": [
-    "2 GAME DEV.md",
-    "Animation.md",
-    "1 intro page.md",
-    "Physics and Transform.md",
-    "Rendering.md",
-    "enemy ai movement.md",
     "basics.md",
-    "project_code.md",
-    "delegates.md",
-    "Tilemapping and spritesheet editing.md",
+    "Animation.md",
+    "enemy ai movement.md",
     "input stuff.md",
+    "Get Bullet to stop colliding with player.md",
+    "project_code.md",
+    "Tilemapping and spritesheet editing.md",
+    "Physics and Transform.md",
+    "1 intro page.md",
+    "2 GAME DEV.md",
+    "Rendering.md",
+    "delegates.md",
     "Gavin-Gamin-notes",
     "astarpathfindingproject_master_free_4_2_17_c030646a.unitypackage",
     "project code.md",

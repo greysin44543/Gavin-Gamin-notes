@@ -21,3 +21,27 @@ next, go to your enemy you want to chase down the player, and give it the "ai pa
 Now in order for there to be a target for your enemy, you gotta add another component to the enemy called "AI destination center", and drag the player character into the Target field.
 
 keep in mind, if you want you enemy to slowdown as it gets closer to the player, you can tweak the slowdown distance and the end reached distance(the distance where the enemy will stop from the player) in order to achieve that goal.
+
+The enemy currently bumps into and slides alongside walls, so in order to fix that, we have to create a new empty script, name it "enemy movement" and attach it to the enemy. Then at the top, type 
+
+```cs
+using Pathfinding;
+```
+
+next, add these two variable at the top:
+
+```cs
+ public AIPath AIpath;
+ Vector2 Direction;
+```
+
+Finally, create this function and add it the update():
+```cs
+ void faceVelocity()
+ {
+     Direction = AIpath.desiredVelocity;
+
+     transform.right = Direction;
+ }
+```
+when you go back into the inspector, in the enemy under the new script, there should be a  (AIpath) empty field. dragyour enemt into that.

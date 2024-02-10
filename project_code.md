@@ -110,5 +110,6 @@ private void FireGunFunc()
     }
 }
 
-//(yeah Idk why the colors are buggin out)
+
 ```
+
