@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12a4c7e291d45673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOOPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce219b2fbf648493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wise Words from Unity discord team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arrays.md",
+                "file": "Wise Words from Unity discord team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arrays.md",
+                "file": "Wise Words from Unity discord team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arrays.md"
+                "file": "Wise Words from Unity discord team.md"
               }
             }
           }
@@ -172,22 +196,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f2a90397a8aa96d",
+  "active": "ce219b2fbf648493",
   "lastOpenFiles": [
-    "random stuff.md",
+    "2 GAME DEV.md",
+    "1 intro page.md",
+    "Wise Words from Unity discord team.md",
+    "Pasted image 20240216113736.png",
+    "LOOPS.md",
+    "Animation.md",
     "project_code.md",
+    "random stuff.md",
     "Rendering.md",
     "arrays.md",
     "basics.md",
-    "Animation.md",
     "delegates.md",
     "Tilemapping and spritesheet editing.md",
     "Physics and Transform.md",
     "input stuff.md",
     "Get Bullet to stop colliding with player.md",
     "enemy ai movement.md",
-    "1 intro page.md",
-    "2 GAME DEV.md",
     "Gavin-Gamin-notes",
     "astarpathfindingproject_master_free_4_2_17_c030646a.unitypackage",
     "project code.md",
