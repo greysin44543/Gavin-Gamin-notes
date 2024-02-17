@@ -8,8 +8,11 @@ next we gotta move the enemy towards the player, to do that we use the Vector2.M
 # Advanced enemy ai stuff (like pathfinding)
 
 First import this ai pathfinding package into the project:
-![[astarpathfindingproject_master_free_4_2_17_c030646a.unitypackage]]
-thats the name of it your gonna have to find it yourself.
+(A* pathfinding)[https://arongranberg.com/astar/download]
+you should wind up with a download named: 
+```
+astarpathfindingproject_master_free_4_2_17_c030646a.unitypackage
+```
 
 Now we have access to a new  component, which you add to a empty gameobject to layout the pathfinding mesh. in the pathfinding component, click on graphs , and check the 2D box. Below that you can adjust and expand the amount and size of the nodes. Its ideal to have a lot of little nodes (but not too many) so that the enemies have a lot of room to move around.
 next check the "use 2D physics" box and make sure the collider type is set to circle.
