@@ -11,16 +11,17 @@ If you’re referencing a script from a different GameObject, you much reference
     public GameObject player;
     //reference the script
     refrencedscript refscript;
-	    q
+	
     
     void Awake()
     {
-        refrencedscript = refscript.GetComponent<refrencedscript>();
+        player = GameObject.Find("player");
+        refscript = player.GetComponent<refrencedscript>();
     }
 
     void Update()
     {
-        if (refrencedscript.whateverthingyoutrynnacall == whatever you wanna do)
+        if (refscript.whateverthingyoutrynnacall == whatever you wanna do)
  ```
 # what is a static variable/function?
 

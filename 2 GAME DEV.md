@@ -21,4 +21,4 @@ This is the Game dev stuff
 
 [[LOOPS]]
 
-[[Wise Words from Unity discord team]]
+[[Wise Words from Gaggle of bored developers help each other to procrastinate their own code]]

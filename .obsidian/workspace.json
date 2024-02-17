@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wise Words from Unity discord team.md",
+                "file": "2 GAME DEV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46c9dfb2b0c22ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev log.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wise Words from Unity discord team.md",
+                "file": "Dev log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wise Words from Unity discord team.md",
+                "file": "Dev log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wise Words from Unity discord team.md"
+                "file": "Dev log.md"
               }
             }
           }
@@ -196,11 +208,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce219b2fbf648493",
+  "active": "46c9dfb2b0c22ec0",
   "lastOpenFiles": [
     "2 GAME DEV.md",
+    "Dev log.md",
     "1 intro page.md",
-    "Wise Words from Unity discord team.md",
+    "basics.md",
+    "Wise Words from Gaggle of bored developers help each other to procrastinate their own code.md",
     "Pasted image 20240216113736.png",
     "LOOPS.md",
     "Animation.md",
@@ -208,7 +222,6 @@
     "random stuff.md",
     "Rendering.md",
     "arrays.md",
-    "basics.md",
     "delegates.md",
     "Tilemapping and spritesheet editing.md",
     "Physics and Transform.md",
