@@ -7,8 +7,7 @@ next we gotta move the enemy towards the player, to do that we use the Vector2.M
 
 # Advanced enemy ai stuff (like pathfinding)
 
-First import this ai pathfinding package into the project:
-(A* pathfinding)[https://arongranberg.com/astar/download]
+First import this ai pathfinding package into the project: (A* pathfinding)[https://arongranberg.com/astar/download]
 you should wind up with a download named: 
 ```
 astarpathfindingproject_master_free_4_2_17_c030646a.unitypackage
@@ -47,4 +46,4 @@ Finally, create this function and add it the update():
      transform.right = Direction;
  }
 ```
-when you go back into the inspector, in the enemy under the new script, there should be a  (AIpath) empty field. dragyour enemt into that.
+when you go back into the inspector, in the enemy under the new script, there should be a  (AIpath) empty field. drag your enemy into that.
