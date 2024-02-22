@@ -80,11 +80,11 @@ Then make the function. Call it ChangeAnimationState and write it like its liste
 void ChangeAnimationState(string newState)
 {
 	//stop the same animation from interupting itself`
-	if (currentstate == newState) return;`
+	if (currentState == newState) return;`
 
 
 	//plays the animation`
-	animator.Play(newstate);`
+	animator.Play(newState);`
 	//reassign the current state
 	currentState = newState;
 }
