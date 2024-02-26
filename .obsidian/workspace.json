@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae5b90e622759311",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6426193dacd7be9e",
+  "active": "ae5b90e622759311",
   "lastOpenFiles": [
     "basics.md",
     "Animation.md",
